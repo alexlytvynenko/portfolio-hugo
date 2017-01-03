@@ -101,7 +101,7 @@ googleAnalytics = "UA-89792705-1"
 	[params.contact]
 		headline = "Let's Get In Touch!"
 		description = "Ready to start your project with me? That's great! Feel free to ask me in anytime :)"
-		email = "litvinenko.htc@gmail.com"
+		email = "litvinenkodev@gmail.com"
 
 	# Google Maps section
 	# [params.location]
