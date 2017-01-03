@@ -6,7 +6,7 @@ baseurl = "https://alexlytvynenko.github.io/"
 languageCode = "en-us"
 title = "Alexander Lytvynenko"
 theme = "portfolio-theme"
-googleAnalytics = ""
+googleAnalytics = "UA-89792705-1"
 
 [params]
 
