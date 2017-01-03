@@ -1,0 +1,8 @@
+modalID: 2
+title: Guester
+date: 
+img: guester.jpg
+client: Guester
+clientLink: "#"
+category: Android Development
+description: Mobile client for night clubs with different roles, opportunities for users and implemented features such as create/edit/delete guests, book tables etc. App supports image caching, saving data in database. It has different custom UI components.

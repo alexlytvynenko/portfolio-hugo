@@ -1,0 +1,8 @@
+modalID: 4
+title: blink-now
+date: 
+img: blink.jpg
+client: Kaltura
+clientLink: "//corp.kaltura.com/"
+category: Android Development
+description: Media application which specialize on streaming VOD (Video on demand), live content. App has different localizations. Used google analytics service, social network integration such as Facebook, Twitter. Implemented google chromecast feature, downloading content and watching it in offline. App supports playback of clear (decrypted) and DRM encrypted contents (Google Widevine).

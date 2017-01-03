@@ -1,0 +1,110 @@
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+canonifyurls = true
+baseurl = "https://alexlytvynenko.github.io/"
+languageCode = "en-us"
+title = "Alexander Litvinenko"
+theme = "portfolio-theme"
+googleAnalytics = ""
+
+[params]
+
+	# You can use Markdown syntax for urls [text](//url.to/source) for
+	# most longer texts.
+
+	# All icons using Fontawesome's icon font. Look at http://fontawesome.io/icons/
+	# for more icons. The icons are represented by their corresponding
+	# CSS class.
+
+	# All projects of the portfolio are defined in their own files.
+	# You can find example projects at 'exampleSite/data/projects'. Copy the 'projects'
+	# folder into the 'data' directory at the root of this Hugo site.
+	# For more information take a look at the README.
+
+	# To provide some metadata for search engines feel free to add some
+	# information about you and your website.
+	name = "Alexander Litvinenko"
+	description = "Android developer"
+
+	# The path must be relative to the static folder
+	favicon = "favicon.ico"
+
+
+	# Navigation
+	[params.navigation]
+		brand = "Alexander Litvinenko"
+
+		[params.navigation.links]
+			about     = "About"
+			services  = "Feature"
+			portfolio = "Portfolio"
+			contact   = "Contact"
+
+
+	# Hero section
+	[params.hero]
+		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
+		slogan     = "Alexander Litvinenko"
+		subtitle   = "Top skilled Android Developer."
+		buttonText = "Find out more"
+
+
+	# About section
+	[params.about]
+		headline    = "Why Me?"
+		description = "Self-discipline, responsible, creative, hardworking and a great desire to make high-quality products. Always follow the up to date information in android world and like to use the newest technologies to develop the best app with a beautiful design and smooth performance. Everytime in touch that allows us to communicate and discuss any questions of your project."
+	#	buttonText  = "Get started!"
+
+
+	# Service section
+	[params.services]
+		headline = "The Main Features"
+
+        [[params.services.list]]
+            icon = "fa-android"
+            title = "Great Skill"
+            description = "5+ years of experience in android development."
+
+        [[params.services.list]]
+			icon = "fa-certificate"
+			title = "High Quality"
+			description = "Only high quality product with clean, maintained architecture!"
+
+		[[params.services.list]]
+            icon = "fa-newspaper-o"
+            title = "Top Technologies"
+            description = "The newest technologies with smooth performance."
+
+        [[params.services.list]]
+            icon = "fa-clock-o"
+            title = "Save Time"
+            description = "Fast development and meet deadline."
+
+
+    # Portfolio modals
+	[params.portfolio.modal]
+        client = "Client"
+        date = "Date"
+        category = "Category"
+        buttonText = "Close"
+
+    # Aside section
+   	 #[params.aside]
+	#	headline = "Get the Creative Theme for Hugo"
+
+	#	[params.aside.button]
+	#		text = "Download now"
+	#		link = "//github.com/digitalcraftsman/hugo-creative-theme"
+
+	# Contact section
+	[params.contact]
+		headline = "Let's Get In Touch!"
+		description = "Ready to start your project with me? That's great! Feel free to ask me in anytime :)"
+		email = "litvinenko.htc@gmail.com"
+
+	# Google Maps section
+	# [params.location]
+	# 	latitude  = "34.007850"
+	# 	longitude = "-118.499305"
+	# 	maps_api_key = ""

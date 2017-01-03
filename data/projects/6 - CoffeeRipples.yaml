@@ -1,0 +1,8 @@
+modalID: 6
+title: Coffee Ripples
+date: 
+img: coffeeripples.jpg
+client: Steam CC
+clientLink: "//coffeeripples.com"
+category: Android Development
+description: Mobile client that allows to you upload any photo or image and have it sketched on your coffee. There is extended features of image operations such as choosing it from album of making it with a camera, adjust the brightness and contrast levels. You can even use drawing mode on your own picture, or write a note. Google maps integration and fetching location with google services (native GPS provider for China). LeakCanary for memory leak detection.

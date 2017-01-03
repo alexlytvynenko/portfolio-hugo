@@ -1,0 +1,8 @@
+modalID: 5
+title: Kabel Deutschland
+date: 
+img: kdg.jpg
+client: Kaltura
+clientLink: "//corp.kaltura.com"
+category: Android Development
+description: Application for watching German TV channels in live. It has German localization. Implemented bug tracking system. Used google analytics service, Crashlytics. Enhanced data security.
