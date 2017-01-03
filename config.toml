@@ -33,7 +33,7 @@ googleAnalytics = ""
 
 	# Navigation
 	[params.navigation]
-		brand = "Alexander Litvinenko"
+		brand = "Alexander Lytvynenko"
 
 		[params.navigation.links]
 			about     = "About"
@@ -45,7 +45,7 @@ googleAnalytics = ""
 	# Hero section
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
-		slogan     = "Alexander Litvinenko"
+		slogan     = "Alexander Lytvynenko"
 		subtitle   = "Top skilled Android Developer."
 		buttonText = "Find out more"
 
