@@ -4,7 +4,7 @@ publishdir = "public"
 canonifyurls = true
 baseurl = "https://alexlytvynenko.github.io/"
 languageCode = "en-us"
-title = "Alexander Litvinenko"
+title = "Alexander Lytvynenko"
 theme = "portfolio-theme"
 googleAnalytics = ""
 
@@ -24,7 +24,7 @@ googleAnalytics = ""
 
 	# To provide some metadata for search engines feel free to add some
 	# information about you and your website.
-	name = "Alexander Litvinenko"
+	name = "Alexander Lytvynenko"
 	description = "Android developer"
 
 	# The path must be relative to the static folder
